@@ -1,1 +1,0 @@
-# proga-7-task
