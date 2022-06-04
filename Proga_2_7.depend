@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1649456110 source:e:\itmo_studies\digitculture_programming\proga_2_7\main.cpp
+	"CircularBuffer.h"
+
+1649456028 e:\itmo_studies\digitculture_programming\proga_2_7\circularbuffer.h
+	<iostream>
+	<vector>
+	<iterator>
+	<algorithm>
+	"errors.h"
+
+1649455959 e:\itmo_studies\digitculture_programming\proga_2_7\errors.h
